@@ -4,6 +4,7 @@
     --botao-azul: #167BF7;
     --cor-de-fundo: #00030C;
     - -fonte-principal: "inter";
+    _ .botao-azul-efeito: #3c92fa;
 }
 
 body { 
@@ -23,8 +24,9 @@ font-weight: 400;
     background-image: url("img-Backgroud");
     backgound-repeat: no-repeat
     background-size: conteain
+ align-itens:center;
+ text-align: center;
 }
-
 .container{ 
     height: 100vh
     display: glid
@@ -38,8 +40,8 @@ font-weight: 400;
     color: var(--branco-principal);
     display: block;
     text-decoration: none;
+ margin-bottom: 1em;
 }
-
 .botao_secundario {
   backgraud-color: transparent;
 border: 2px solid var(--branco-principal);
