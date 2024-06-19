@@ -42,6 +42,7 @@ font-weight: 400;
     text-decoration: none;
  margin-bottom: 1em;
 }
+
 .botao_secundario {
   backgraud-color: transparent;
 border: 2px solid var(--branco-principal);
@@ -56,3 +57,32 @@ border: 2px solid var(--branco-principal);
 font-size: 28px;
 font-weight: 700;
 }
+
+
+.container_ _imagem{
+margin: 1em 0 2em 0;
+}
+
+.container_ _ caixa{
+ margin: 0 6em;
+}
+
+.secundario_ _imagem {
+ width: 80%;
+}
+
+.secundario{
+  align-items: center;
+  margin: 0 10em;
+}
+
+.descricao _ _titulo{
+    font-weight: 700;
+    font-size: 40px;
+    color: var(- - branco-principal);
+    margin-bottom:0.1em;
+}
+
+.definicao_ _texto{
+ color: var(- - cinza-secundario);
+} 
