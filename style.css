@@ -86,3 +86,52 @@ margin: 1em 0 2em 0;
 .definicao_ _texto{
  color: var(- - cinza-secundario);
 } 
+
+.secundario_ _botao{
+display: inline-block;
+margin-top: 1em;
+}
+
+.container_escricao{
+padding: 2em;
+}
+
+.dispositivos_ _lista{
+display: flex;
+justify-content: center;
+list-style-type: none;
+margin: 5em;
+}
+
+.dispositivos{
+text-align: center;
+}
+
+.dispositivos_ _titulo{
+font-size: 32px;
+color:var(- - var(--branco-principal);
+}
+
+.rodape{
+text-align: center;
+margin: 5em 3em;
+}
+
+.lita_ _item{
+font-size: 32px
+color: var(- var(--branco-principal);
+}
+
+.rodape_ _lista{
+display: flex;
+justify-content: center;
+list-style-type: none;
+margin-top: 1em;
+}
+
+.lista_ _link a {
+text-decoration: none;
+coor:var(--botao-principal);
+margin-left: 1em;
+}
+
