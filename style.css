@@ -3,8 +3,8 @@
     --cinza-secundario: #C0C0;
     --botao-azul: #167BF7;
     --cor-de-fundo: #00030C;
-    - -fonte-principal: "inter";
-    _ .botao-azul-efeito: #3c92fa;
+    -- -fonte-principal: "inter";
+    -- botao-azul-efeito: #3c92fa;
 }
 
 body { 
@@ -22,14 +22,14 @@ font-weight: 400;
 
 .principal{ 
     background-image: url("img-Backgroud");
-    backgound-repeat: no-repeat
-    background-size: conteain
- align-itens:center;
- text-align: center;
+    backgound-repeat: no-repeat;
+    background-size: contain;
+    align-items:center;
+    text-align: center;
 }
 .container{ 
     height: 100vh
-    display: glid
+    display: glid;
     grideifen-
 }
 
